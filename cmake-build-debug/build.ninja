@@ -49,14 +49,8 @@ cmake_ninja_workdir = C$:/Users/vokos/Desktop/Karazina/3$ kurs/1$ sem/OS/lab-env
 
 build cmake_object_order_depends_target_lab_env: phony || CMakeFiles/lab_env.dir
 
-build CMakeFiles/lab_env.dir/main-print-all-env.c.obj: C_COMPILER__lab_env_Debug C$:/Users/vokos/Desktop/Karazina/3$ kurs/1$ sem/OS/lab-env/main-print-all-env.c || cmake_object_order_depends_target_lab_env
-  DEP_FILE = CMakeFiles\lab_env.dir\main-print-all-env.c.obj.d
-  FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\lab_env.dir
-  OBJECT_FILE_DIR = CMakeFiles\lab_env.dir
-
-build CMakeFiles/lab_env.dir/main-print-env.c.obj: C_COMPILER__lab_env_Debug C$:/Users/vokos/Desktop/Karazina/3$ kurs/1$ sem/OS/lab-env/main-print-env.c || cmake_object_order_depends_target_lab_env
-  DEP_FILE = CMakeFiles\lab_env.dir\main-print-env.c.obj.d
+build CMakeFiles/lab_env.dir/main.c.obj: C_COMPILER__lab_env_Debug C$:/Users/vokos/Desktop/Karazina/3$ kurs/1$ sem/OS/lab-env/main.c || cmake_object_order_depends_target_lab_env
+  DEP_FILE = CMakeFiles\lab_env.dir\main.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\lab_env.dir
   OBJECT_FILE_DIR = CMakeFiles\lab_env.dir
@@ -69,7 +63,7 @@ build CMakeFiles/lab_env.dir/main-print-env.c.obj: C_COMPILER__lab_env_Debug C$:
 #############################################
 # Link the executable lab_env.exe
 
-build lab_env.exe: C_EXECUTABLE_LINKER__lab_env_Debug CMakeFiles/lab_env.dir/main-print-all-env.c.obj CMakeFiles/lab_env.dir/main-print-env.c.obj
+build lab_env.exe: C_EXECUTABLE_LINKER__lab_env_Debug CMakeFiles/lab_env.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\lab_env.dir
