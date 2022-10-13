@@ -1,0 +1,3 @@
+C:/Users/vokos/Desktop/Karazina/3 kurs/1 sem/OS/lab-env/cmake-build-debug/CMakeFiles/lab_env.dir
+C:/Users/vokos/Desktop/Karazina/3 kurs/1 sem/OS/lab-env/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vokos/Desktop/Karazina/3 kurs/1 sem/OS/lab-env/cmake-build-debug/CMakeFiles/rebuild_cache.dir
