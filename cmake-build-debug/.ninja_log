@@ -1,8 +1,10 @@
 # ninja log v5
 1	106	6873824586965422	CMakeFiles/lab_env.dir/main.c.obj	29062206d9ecbd86
-0	71	6873825101457507	CMakeFiles/lab_env.dir/main-print-env.c.obj	d7e0c312f3d54f19
-71	153	6873825102239433	lab_env.exe	6a6953c1fc70d3e7
-2	196	6873826826934531	build.ninja	ba204d396bbfa8c3
-7	98	6873831012057013	CMakeFiles/lab_env.dir/main-print-all-env.c.obj	2b9c6f7a5d4a0bc6
-3	101	6873831012086345	CMakeFiles/lab_env.dir/main-print-env.c.obj	d7e0c312f3d54f19
 2	84	6873831324346140	CMakeFiles/lab_env.dir/main-print-env.c.obj	d7e0c312f3d54f19
+71	153	6873825102239433	lab_env.exe	6a6953c1fc70d3e7
+2	196	6873838614612535	build.ninja	ba204d396bbfa8c3
+7	98	6873831012057013	CMakeFiles/lab_env.dir/main-print-all-env.c.obj	2b9c6f7a5d4a0bc6
+0	91	6873842884726813	CMakeFiles/lab_env.dir/main.c.obj	29062206d9ecbd86
+92	174	6873842885505128	lab_env.exe	aff47f00c03b7f96
+3	90	6873843942069168	CMakeFiles/lab_env.dir/main.c.obj	29062206d9ecbd86
+90	188	6873843943019167	lab_env.exe	aff47f00c03b7f96

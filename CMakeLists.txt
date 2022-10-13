@@ -3,4 +3,4 @@ project(lab_env C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(lab_env main-print-all-env.c)
+add_executable(lab_env main.c)
